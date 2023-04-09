@@ -1,4 +1,4 @@
-[![MasterHead](https://uploads-ssl.webflow.com/61c34f199281cd32c399f08e/6266ee9a01e75659eace2e7a_Point-PropTypes-in-React-concepta-blog.jpg)](https://reactnative.dev/)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1200/1*et_kPtJUzLi0GMYP9JlVmg.gif)](https://reactnative.dev/)
 <h1 align="center">Hi 👋, I'm Oskar Pianka</h1>
 <h3 align="center">A frontend enthusiast from Poland</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
