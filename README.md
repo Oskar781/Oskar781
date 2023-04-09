@@ -1,4 +1,4 @@
-[![MasterHead](https://s3.amazonaws.com/rails-camp-tutorials/blog/programming+memes/programming-or-googling.jpg)](https://reactnative.dev/)
+[![MasterHead]([https://s3.amazonaws.com/rails-camp-tutorials/blog/programming+memes/programming-or-googling.jpg](https://miro.medium.com/v2/resize:fit:1280/0*d7eQtdQYjf8-AZGd))](https://reactnative.dev/)
 <h1 align="center">Hi 👋, I'm Oskar Pianka</h1>
 <h3 align="center">A frontend enthusiast from Poland</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
