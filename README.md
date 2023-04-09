@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1280/0*d7eQtdQYjf8-AZGd)](https://reactnative.dev/)
+[![MasterHead](https://teamquest.pl/img/static/blog/reactjs.jpeg)](https://reactnative.dev/)
 <h1 align="center">Hi 👋, I'm Oskar Pianka</h1>
 <h3 align="center">A frontend enthusiast from Poland</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
